@@ -1,5 +1,8 @@
 <div align="center">
+<img src="./banner.svg" width="100%" alt="Malik Muhammad Ahad — DevOps banner" />
 
+<br>
+<br>
 <h3><code>ahad3594@github ~ $ whoami</code></h3>
 
 <table>
